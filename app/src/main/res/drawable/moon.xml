@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/moon_0" android:maxLevel="0" />
+    <item android:drawable="@drawable/moon_15" android:maxLevel="15" />
+    <item android:drawable="@drawable/moon_25" android:maxLevel="25" />
+    <item android:drawable="@drawable/moon_35" android:maxLevel="35" />
+    <item android:drawable="@drawable/moon_50" android:maxLevel="50" />
+    <item android:drawable="@drawable/moon_65" android:maxLevel="65" />
+    <item android:drawable="@drawable/moon_75" android:maxLevel="75" />
+    <item android:drawable="@drawable/moon_85" android:maxLevel="85" />
+    <item android:drawable="@drawable/moon_0" android:maxLevel="100" />
+</level-list>
