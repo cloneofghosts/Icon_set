@@ -62,12 +62,12 @@ https://developer.yahoo.com/weather/documentation.html
 | 36   	| hot                            	|
 | 37   	| isolated thunderstorms         	|
 | 38   	| scattered thunderstorms        	|
-| 39   	| scattered showers (day)        	|
-| 40   	| heavy rain                     	|
-| 41   	| scattered snow showers (day)   	|
-| 42   	| heavy snow                     	|
-| 43   	| blizzard                       	|
-| 44   	| not available                  	|
+| 39   	| scattered thunderstorms        	|
+| 40   	| scattered showers (day)        	|
+| 41   	| heavy rain                     	|
+| 42   	| scattered snow showers (day)   	|
+| 43   	| heavy snow                     	|
+| 44   	| blizzard                       	|
 | 45   	| scattered showers (night)      	|
 | 46   	| scattered snow showers (night) 	|
 | 47   	| scattered thundershowers       	|
