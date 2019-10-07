@@ -41,8 +41,8 @@ https://developer.yahoo.com/weather/documentation.html
 | 34   	| fair (day)                     	|
 | 35   	| mixed rain and hail            	|
 | 36   	| hot                            	|
-| 37   	| isolated thunderstorms         	|
-| 38   	| scattered thunderstorms        	|
+| 37   	| isolated thunderstorms (day)   	|
+| 38   	| scattered thunderstorms (day)  	|
 | 39   	| scattered showers (day)        	|
 | 40   	| heavy rain                     	|
 | 41   	| scattered snow showers (day)   	|
@@ -51,5 +51,5 @@ https://developer.yahoo.com/weather/documentation.html
 | 44   	| data not available            	|
 | 45   	| scattered showers (night)      	|
 | 46   	| scattered snow showers (night) 	|
-| 47   	| scattered thundershowers       	|
+| 47   	| scattered thundershowers (night)|
 | na   	| data not available             	|
