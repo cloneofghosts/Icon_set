@@ -43,13 +43,16 @@ https://developer.yahoo.com/weather/documentation.html
 | 36   	| hot                            	|
 | 37   	| isolated thunderstorms (day)   	|
 | 38   	| scattered thunderstorms (day)  	|
-| 39   	| scattered showers (day)        	|
-| 40   	| heavy rain                     	|
-| 41   	| scattered snow showers (day)   	|
-| 42   	| heavy snow                     	|
+| 39   	| scattered thunderstorms (day)  	|
+| 40   	| scattered showers (day)        	|
+| 41   	| heavy snow                     	|
+| 42   	| scattered snow showers (day)   	|
 | 43   	| blizzard                       	|
-| 44   	| data not available            	|
-| 45   	| scattered showers (night)      	|
+| 44   	| heavy rain<sup><a href="#1">[1]</a></sup>      	|
+| 45   	| scattered showers (night)<sup><a href="#2">[2]</a></sup>   	|
 | 46   	| scattered snow showers (night) 	|
 | 47   	| scattered thundershowers (night)|
 | na   	| data not available             	|
+
+<a href="#1">[1]</a> proposed change from partly cloudy (night)<br/>
+<a href="#2">[2]</a> proposed change from thundershowers (night)
