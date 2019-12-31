@@ -1,4 +1,4 @@
-# Icon Set for the Chronus
+# Icon Set for the Chronus APP
 
 Icon set for the Cronus weather widget. The condition codes used can be found in weather_codes.md (updated to match the updated icons with some proposals) and changes the icons to be a set that is similar in design to the Google Now icons.
 
