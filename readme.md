@@ -1,6 +1,6 @@
 # Icon Set for the Chronus
 
-Icon set for the Cronus weather widget. This is an updated version of the Sample_Icon_Set which can be found on GitHub. It updates that project to use gradle and updated the icons in accordance with the new weather codes which are located in the weather_codes.md file and it no longer merges the old weather codes with the new one, it only uses the new codes.
+Icon set for the Cronus weather widget. The condition codes used can be found in weather_codes.md (updated to match the updated icons with some proposals) and changes the icons to be a set that is similar in design to the Google Now icons.
 
 Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/"             title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/"             title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a> with edits to some of the icons made by me.
 
