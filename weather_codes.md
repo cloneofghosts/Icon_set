@@ -46,13 +46,12 @@ https://developer.yahoo.com/weather/documentation.html
 | 39   	| scattered thunderstorms (day)  	|
 | 40   	| scattered showers (day)        	|
 | 41   	| heavy snow                     	|
-| 42   	| scattered snow showers (night)<sup>[1]</sup> 	|
+| 42   	| scattered snow showers (day)  	|
 | 43   	| blizzard                       	|
-| 44   	| heavy rain<sup>[2]</sup>      	|
+| 44   	| heavy rain<sup>[1]</sup>      	|
 | 45   	| scattered showers (night)       |
-| 46   	| scattered snow showers (day)<sup>[1]</sup>   	|
+| 46   	| scattered snow showers (night)  |
 | 47   	| scattered thundershowers (night)|
 | na   	| data not available             	|
 
-[1] the mappings in chronus may be messed and 42/46 will always display the same icon but with most icon sets 42 will be the night icon<br />
-[2] proposed change from partly cloudy (night)
+[1] proposed change from partly cloudy (night)
